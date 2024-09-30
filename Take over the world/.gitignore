@@ -1,0 +1,44 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+/Library/
+build/
+/[Uu]ser[Ss]ettings/
+*.collabignore
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated/ VSCode #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vscode
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Builds/*
+Bundles/*
+
+Library/FailedAssetImports.txt
+*/.vs/*
+/Logs
+.idea/
+
+Assets/Graphics/Sprites/GitIgnoreSprites/*
